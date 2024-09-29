@@ -5,7 +5,7 @@ Description
 The notebook performs the following tasks:
 
 Imports the loan dataset from a CSV file.
-Checks for missing values and replaces them with a temporary fill value.
+Check for missing values and replace them with a temporary fill value.
 Splits the dataset into numeric and string columns.
 Reimports the dataset, separating numeric and string columns.
 Performs data manipulation on the string columns, including:
@@ -17,7 +17,7 @@ Performs data manipulation on the numeric columns, including:
 Converting the "int_rate" column to a percentage format.
 Creating new columns for the exchange rate.
 Concatenates the numeric and string columns into a single dataset.
-Sorts the dataset by the "id" column.
+Sort the dataset by the "id" column.
 Saves the preprocessed dataset to a new CSV file named loan-data-preprocess.csv.
 Requirements
 Python 3.x
