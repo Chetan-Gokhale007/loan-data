@@ -1,6 +1,6 @@
 Loan Data Preprocessing
 
-This repository contains a Jupyter Notebook (.ipynb file) that performs data preprocessing on a loan dataset. The dataset is not included in this repository, but the notebook assumes that it is stored in a file named loan-data.csv in the same directory.
+This repository contains a Jupyter Notebook (.ipynb file) that performs data preprocessing on a loan dataset. The dataset is included in this repository, it is stored in a file named loan-data.csv in the same directory.
 
 Description
 The notebook performs the following tasks:
